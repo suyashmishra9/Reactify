@@ -5,15 +5,14 @@ import './App.css'
 
 function App() {
 
-  let [counter, setCounter] = useState(15)
+  let [counter, setCounter] = useState(0)
 
   const addvalue = () => {
     if (counter == 20) {
       console.log("Limit");
       return;
     } else {
-      counter = counter + 1
-      setCounter(counter)
+      setCounter(counter + 1 )
       console.log(`the value of counter is : ${counter}`)
     }
   }
@@ -22,8 +21,7 @@ function App() {
       console.log("Limit");
       return;
     } else {
-      counter = counter - 1
-      setCounter(counter)
+      setCounter(counter - 1 )
       console.log(`the value of counter is : ${counter}`)
     }
 
