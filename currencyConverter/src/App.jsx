@@ -25,7 +25,6 @@ function App() {
   }
   return (
     <>
-      return (
       <div
         className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
         style={{
@@ -79,7 +78,6 @@ function App() {
           </div>
         </div>
       </div>
-      );
     </>
   )
 }
