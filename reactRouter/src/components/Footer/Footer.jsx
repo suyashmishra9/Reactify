@@ -10,7 +10,7 @@ export default function Footer() {
                     <div className="mb-6 md:mb-0">
                         <Link to="/" className="flex items-center">
                             <img
-                                src="https://alexharkness.com/wp-content/uploads/2020/06/logo-2.png"
+                                src="https://png.pngtree.com/png-clipart/20230913/original/pngtree-beach-and-sunset-vector-holiday-icon-design-vacation-logo-gathering-png-image_11057342.png"
                                 className="mr-3 h-16"
                                 alt="Logo"
                             />
@@ -72,9 +72,9 @@ export default function Footer() {
                 <hr className="my-6 border-gray-200 sm:mx-auto lg:my-8" />
                 <div className="sm:flex sm:items-center sm:justify-between">
                     <span className="text-sm text-gray-500 sm:text-center">
-                        © 2023
+                        © 2023 
                         <a href="https://hiteshchoudhary.com/" className="hover:underline">
-                            hiteshchoudhary
+                             SuyashMishra
                         </a>
                         . All Rights Reserved.
                     </span>

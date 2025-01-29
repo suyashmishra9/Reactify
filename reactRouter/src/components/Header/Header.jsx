@@ -9,7 +9,7 @@ export default function Header() {
                 <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
                     <Link to="/" className="flex items-center">
                         <img
-                            src="https://alexharkness.com/wp-content/uploads/2020/06/logo-2.png"
+                            src="https://png.pngtree.com/png-clipart/20230913/original/pngtree-beach-and-sunset-vector-holiday-icon-design-vacation-logo-gathering-png-image_11057342.png"
                             className="mr-3 h-12"
                             alt="Logo"
                         />
