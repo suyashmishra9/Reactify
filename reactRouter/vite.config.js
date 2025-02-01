@@ -8,6 +8,8 @@ export default defineConfig({
     tailwindcss()
   ],
   server: {
+    host: '0.0.0.0', // Exposes to the network
+    // port: 5173,
     open: true, // Automatically open the browser
   },
 })
